@@ -1,0 +1,15 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/*.*
+.idea/workspace.xml
+.idea/dbnavigator.xml
+.idea/
+__pycache__/
+*.pyc
+
+general/migrations/
+general/__pycache__/
+general/*.pyc
+
+#logs/*.log
+
+
